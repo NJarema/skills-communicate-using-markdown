@@ -9,3 +9,7 @@ I have created a pull reqeust to compare main and start-markdown. I have learned
 ```
 std::cout<< "Hello World" << std::
 ```
+
+- [x] Start this assignment
+- [x] Work through this assignment
+- [ ] Finish this assignment
